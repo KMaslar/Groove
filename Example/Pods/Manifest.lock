@@ -1,0 +1,16 @@
+PODS:
+  - Groove (0.1.0)
+
+DEPENDENCIES:
+  - Groove (from `../`)
+
+EXTERNAL SOURCES:
+  Groove:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Groove: c32f9d1190ca773e9dff1e6ce32385fdad73261d
+
+PODFILE CHECKSUM: bd887ce2b1911b418e59a3cf3f4aa27666b0ae77
+
+COCOAPODS: 1.15.2

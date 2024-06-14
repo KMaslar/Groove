@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'Groove_Example' do
+  pod 'Groove', :path => '../'
+
+  target 'Groove_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
